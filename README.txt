@@ -106,3 +106,4 @@ Please send your suggestion to ahmed.nawras <at @ at> gmail <dot . dot> com
 This software is subject to "Mozilla Public License 1.1". You can find the license terms
 in the file 'LICENSE.txt' shipping along with the source code. You may also get a copy
 of the license term from the URL: "http://www.mozilla.org/MPL/MPL-1.1.html".
+
