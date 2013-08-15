@@ -1,6 +1,6 @@
 -module(log4erl_conf).
 
--export([conf/1]).
+-export([conf/1, traverse/1]).
 
 leex(File) ->
     {ok, Bin} = file:read_file(File),
